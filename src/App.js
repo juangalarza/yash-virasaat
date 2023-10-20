@@ -10,7 +10,7 @@ import MapCounter from "./Components/MapCounter";
 
 function App() {
   return (
-    <><React.Fragment >
+    <React.Fragment >
       <Navbar />
       <RightCounter />
       <AboutUs  /> 
